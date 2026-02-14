@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -g CMakeFiles/task_manager.dir/src/Task.cpp.o CMakeFiles/task_manager.dir/src/TaskManager.cpp.o CMakeFiles/task_manager.dir/src/main.cpp.o -o task_manager 
